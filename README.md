@@ -1,9 +1,9 @@
 ### CIS-7-FINAL-
 
 # Info 
-Team: WeAllMetOnDiscord
-Authors: Devin Keomany and Paris Martinez
-Case 2: UCR Medical Volunteers
+- Team: WeAllMetOnDiscord
+- Authors: Devin Keomany and Paris Martinez
+- Case 2: UCR Medical Volunteers
 
 # Description
 In this program you were selected to participate in the Doctors without Borders, you will first input your preffered
